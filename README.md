@@ -1,4 +1,4 @@
-Java Coding programming
+Java Coding programs
 1. CountOfCharacterInStringHashMap
 2. FibanocciSeries
 3. FilterDuplicateArrayElements
