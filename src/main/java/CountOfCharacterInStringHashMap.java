@@ -23,6 +23,7 @@ public class CountOfCharacterInStringHashMap {
 			}
 			System.out.println(c);
 			System.out.println(mp);
+			System.out.println("This is for understanding the git clone push functionalities");
 		}
 		
 	}
